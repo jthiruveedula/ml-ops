@@ -1,5 +1,5 @@
 
-#!/bin/bash
+# !/bin/bash
 #######################################################################################
 # Author  Jagadeesh Thiruveedula
 # Scripting BASH
@@ -8,7 +8,7 @@
 #and create a docker images as per the code and execute the code inside container!
 ######################################################################################
 
-figlet MLModel_in_code_and_booting_Docker
+figlet "Checking code and setting up Env Accordingly"
 
 if python3 /mlops/codechecker.py == 'CNN'
 then

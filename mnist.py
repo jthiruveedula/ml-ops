@@ -1,9 +1,9 @@
-/**
- * @author  Jagadeesh Thiruveedula
- * @version 3.7.6
- * @Lang    Python
- * Distribution Anaconda
- */
+#########################################
+# @author  Jagadeesh Thiruveedula
+# @version 3.7.6
+# @Lang    Python
+# Distribution Anaconda
+########################################
 
 import keras
 from keras.datasets import mnist
